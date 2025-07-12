@@ -28,10 +28,15 @@
 ✅ Sample Output
 
 Dataset shape: (1797, 64), Labels: [0 1 2 3 4 5 6 7 8 9]
+
 Original shape: (1437, 64), After PCA: (1437, 40)
+
 Accuracy: 0.9833
+
 Tuned Model Accuracy: 0.9889
+
 Predicted label: 3
+
 Actual label: 3
 
 
